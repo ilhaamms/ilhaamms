@@ -4,16 +4,12 @@ I am a Backend Developer, I am passionate about building scalable and efficient 
 
 
 <p align="center">
-  <h2>🌟 Connect with Me</h2>
-  <p>
-    <a href="https://www.linkedin.com/in/ilhammuhammadsidiq/" target="_blank" style="text-decoration: none; color: #0077B5; margin: 0 15px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;" />
-      LinkedIn
-    </a>
-  </p>
-  <p style="font-size: 14px; color: #FFFF;">
-    Feel free to reach out for collaborations, inquiries, or just to connect! 🤝
-  </p>
+  <br />
+  <samp>
+    <a href="https://www.linkedin.com/in/ilhammuhammadsidiq/" target="_blank">linkedin</a>
+    .
+    <a href="mailto:ilhaammuhammads@gmail.com">email</a>
+  </samp>
 </p>
 
  
